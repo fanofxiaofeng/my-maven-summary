@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <database-username>${database.username}</database-username>
+    <database-password>${database.password}</database-password>
+    <show.project.basedir>${project.basedir}</show.project.basedir>
+</items>
+
